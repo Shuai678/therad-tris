@@ -1,0 +1,16 @@
+C:\Users\shuai.21032\source\repos\therad\therad\bin\Debug\net8.0-windows\therad.exe
+C:\Users\shuai.21032\source\repos\therad\therad\bin\Debug\net8.0-windows\therad.deps.json
+C:\Users\shuai.21032\source\repos\therad\therad\bin\Debug\net8.0-windows\therad.runtimeconfig.json
+C:\Users\shuai.21032\source\repos\therad\therad\bin\Debug\net8.0-windows\therad.dll
+C:\Users\shuai.21032\source\repos\therad\therad\bin\Debug\net8.0-windows\therad.pdb
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.Form1.resources
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.csproj.GenerateResource.cache
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.AssemblyInfoInputs.cache
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.AssemblyInfo.cs
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.dll
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\refint\therad.dll
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.pdb
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\therad.genruntimeconfig.cache
+C:\Users\shuai.21032\source\repos\therad\therad\obj\Debug\net8.0-windows\ref\therad.dll
